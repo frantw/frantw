@@ -3,7 +3,8 @@
 
 - 🛡️ I’m currently working on **Cyber Security Industry**
 
-- 🙌 I’m currently contributing to the open-source project [Kornblume](https://github.com/windbow27/kornblume)
+- 🙌 I’m currently contributing to the open-source project [Kornblume](https://github.com/windbow27/kornblume) (
+A game toolsite with over 50,000 users)
 
 - 👀 I’m currently maintaining the tool [Splatoon 3 ID Card Generator](https://github.com/frantw/splatoon3-id-card-generator)
 
