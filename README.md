@@ -3,10 +3,11 @@
 
 - 🛡️ I’m currently working on **Cyber Security Industry**
 
-- 🙌 I’m currently contributing to the open-source project [Kornblume](https://github.com/windbow27/kornblume) (
-A game toolsite with over 50,000 users)
+- 🙌 I’m currently contributing to the open-source project [Kornblume](https://github.com/windbow27/kornblume), a game toolsite with over 50,000 users
 
-- 👀 I’m currently maintaining the tool [Splatoon 3 ID Card Generator](https://github.com/frantw/splatoon3-id-card-generator)
+- 👀 I developed the tool [Splatoon 3 ID Card Generator](https://github.com/frantw/splatoon3-id-card-generator) and am currently maintaining it
+
+- 🌱 I’m currently learning **Electron** and **Tailwind CSS**
 
 - ✉️ You can contact me via email fran@frannn.dev
 
